@@ -230,7 +230,7 @@ export default function Home() {
             <div className="absolute w-full h-full rounded-full border-2 border-primary animate-pulse"></div>
             <div className="absolute w-full h-full rounded-full overflow-hidden">
               <Image
-                src="/profile.jpg"
+                src="/profile.JPG"
                 alt="Irfan Ali Lashari"
                 width={320}
                 height={320}
