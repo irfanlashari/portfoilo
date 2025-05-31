@@ -170,7 +170,7 @@ export default function Home() {
           <div className="mb-6 space-y-2">
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <MapPin className="h-4 w-4 text-primary" />
-              <span>Bakhtawar Cadet College for Girls, Shaheed Benazirabad, Sindh, Pakistan</span>
+              <span>Karachi, Sindh, Pakistan</span>
             </div>
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <Mail className="h-4 w-4 text-primary" />
