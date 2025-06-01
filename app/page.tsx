@@ -572,7 +572,7 @@ export default function Home() {
                 variant="outline"
                 size="sm"
                 className="border-primary text-primary hover:bg-primary hover:text-primary-foreground w-full rounded-lg"
-                onClick={() => window.open("#", "_blank")}
+                onClick={() => window.open("/NetworkingBasicsUpdate20250601-26-vx3d6r_page-0001.jpg", "_blank")}
               >
                 <Eye className="mr-2 h-3 w-3" /> View Certificate
               </Button>
